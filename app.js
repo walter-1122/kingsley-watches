@@ -72,3 +72,8 @@ function init(){
   document.querySelector(".menu-btn")?.addEventListener("click",()=>document.body.classList.toggle("menu-open"));
 }
 document.addEventListener("DOMContentLoaded",init);
+{
+  name: "Kingsley Classic",
+  price: 129,
+  ...
+}
