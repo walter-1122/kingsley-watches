@@ -77,3 +77,9 @@ document.addEventListener("DOMContentLoaded",init);
   price: 129,
   ...
 }
+{
+  name: "Kingsley Royal Black",
+  price: 179,
+  image: "YOUR-IMAGE-LINK",
+  description: "Premium black timepiece designed for a timeless look."
+}
